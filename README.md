@@ -24,6 +24,7 @@ My goals for this challenge are:
 - Pass AWS Certification
 - Consistent Cloud Learning
 
+Social Handle
 - [Twitter](https://www.linkedin.com/in/rahul-patel-08805313a/)
 - [LinkedIn](https://twitter.com/U_N_R_3_A_L)
 
