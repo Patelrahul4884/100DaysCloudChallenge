@@ -14,18 +14,18 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [Rahul]'s Cloud Journey
+## Rahul's Cloud Journey
 
-[I am Mendix Developer and want to get into cloud technology so I am learning AWS from Udemy. I'm very curious and always happy to learn new skills and topics.]
+I am Mendix Developer and want to get into cloud technology so I am learning AWS from Udemy. I'm very curious and always happy to learn new skills and topics.
 
-[I am in the begenning phase of cloud and still learning so I am starting this challegne to get hands on experience]
+I am in the begenning phase of cloud and still learning so I am starting this challegne to get hands on experience
 
-[My goals for this challenge are:]
+My goals for this challenge are:
 - Pass AWS Certification
 - Consistent Cloud Learning
 
-- [Twitter](https://www.linkedin.com/in/rahul-patel-08805313a/)
-- [LinkedIn](https://twitter.com/U_N_R_3_A_L)
+- Twitter(https://www.linkedin.com/in/rahul-patel-08805313a/)
+- LinkedIn(https://twitter.com/U_N_R_3_A_L)
 
 ## Stepping out the door
 
