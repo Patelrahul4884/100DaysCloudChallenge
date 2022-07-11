@@ -2,7 +2,7 @@
 
  - What is Function as a service?
  
-Funcation as a service is a cloud computing service that allow customer to develop, run and manage the application without bulding and manageing the infrastructure. this is called serverless architecture.
+   Funcation as a service is a cloud computing service that allow customer to develop, run and manage the application without bulding and manageing the infrastructure.    this is called serverless architecture.
  
  - How many languages are supported by AWS Lambda
 7 -> Java, Go, PowerShell, Node.js, C#, Python, and Ruby
