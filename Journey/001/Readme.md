@@ -5,11 +5,11 @@
    Funcation as a service is a cloud computing service that allow customer to develop, run and manage the application without bulding and manageing the infrastructure.    this is called serverless architecture.
  
  - How many languages are supported by AWS Lambda
- -
+ 
    7 -> Java, Go, PowerShell, Node.js, C#, Python, and Ruby
  
  - What is the maximum memory allocated to an AWS Lambda function?
- -
+
    10,240 MB (10 GB) of memory
  
  - How many ways to deploy a Lambda function?
