@@ -5,25 +5,25 @@
    Funcation as a service is a cloud computing service that allow customer to develop, run and manage the application without bulding and manageing the infrastructure.    this is called serverless architecture.
  
  - How many languages are supported by AWS Lambda
-7 -> Java, Go, PowerShell, Node.js, C#, Python, and Ruby
+   7 -> Java, Go, PowerShell, Node.js, C#, Python, and Ruby
  
  - What is the maximum memory allocated to an AWS Lambda function?
-10,240 MB (10 GB) of memory
+   10,240 MB (10 GB) of memory
  
  - How many ways to deploy a Lambda function?
- #### 1st - SAM CLI, 2nd - .zip archive
+   1st - SAM CLI, 2nd - .zip archive
  
  - How to write code in the cloud9 IDE?
- #### Create an AWS Cloud9 development environment on a new Amazon EC2 instance or connect it to your own Linux server though SSH.
+   Create an AWS Cloud9 development environment on a new Amazon EC2 instance or connect it to your own Linux server though SSH.
  
  - How to test a Lambda function?
- #### Using AWS SAM we can test Online and locally both. if you want to test locally then you must have docker running in your system. and you can also test Lambda Function using AWS LAMBDA GUI.
+   Using AWS SAM we can test Online and locally both. if you want to test locally then you must have docker running in your system. and you can also test Lambda Function using AWS LAMBDA GUI.
  
  - What is cloudwatch?
- #### Amazon CloudWatch is a monitoring and management service that provides data and actionable insights for AWS, hybrid, and on-premises applications and infrastructure resources.
+   Amazon CloudWatch is a monitoring and management service that provides data and actionable insights for AWS, hybrid, and on-premises applications and infrastructure resources.
  
  - How to check the logs for a Lambda function?
- #### Using cloud watch console, Using AWS CLI, you can also create lambda function to check logs, 
+   Using cloud watch console, Using AWS CLI, you can also create lambda function to check logs, 
 
 
 ## Try yourself
