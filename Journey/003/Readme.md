@@ -34,8 +34,10 @@ If you enable multi-value headers, the load balancer uses both key values sent b
 "multiValueQueryStringParameters": { "myKey": ["val1", "val2"] }
 
 Refer following docs to learn more on Lambda with ALB and target group
-[https://docs.aws.amazon.com/lambda/latest/dg/services-alb.html]
-[https://docs.aws.amazon.com/elasticloadbalancing/latest/application/lambda-functions.html]
+
+[ALB Doc](https://docs.aws.amazon.com/lambda/latest/dg/services-alb.html)
+
+[Lambda with Target group](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/lambda-functions.html)
 
 ## Social Proof
 
