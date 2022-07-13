@@ -31,7 +31,7 @@ Social Handle
 ## Stepping out the door
 
 - [x] ☁️ 1 > [Add two number using Lambda AWS (Python)](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [ ] ☁️ 2 > [Serverless API using Lambda and API Gateway](https://github.com/Patelrahul4884/100DaysCloudChallenge/tree/main/Journey/002)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
