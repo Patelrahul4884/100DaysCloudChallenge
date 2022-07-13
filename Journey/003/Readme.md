@@ -39,4 +39,4 @@ Refer following docs to learn more on Lambda with ALB and target group
 
 ## Social Proof
 
-[link](link)
+[LinkedIn Post](https://www.linkedin.com/posts/rahul-patel-08805313a_github-patelrahul4884100dayscloudchallenge-activity-6953067832418926592-0ff9?utm_source=linkedin_share&utm_medium=member_desktop_web)
