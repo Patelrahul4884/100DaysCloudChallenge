@@ -1,52 +1,42 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# Lambda & Application Load Balancer
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+You can use a Lambda function to process requests from an Application Load Balancer. Elastic Load Balancing supports Lambda functions as a target for an Application Load Balancer. Use load balancer rules to route HTTP requests to a function, based on path or header values. Process the request and return an HTTP response from your Lambda function.
 
-## Try yourself
+Elastic Load Balancing invokes your Lambda function synchronously with an event that contains the request body and metadata.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+## Lambda Integration with ALB
 
-### Step 1 — Summary of Step
+* To expose lambda function as HTTP end point
 
-![Screenshot](https://via.placeholder.com/500x300)
+* you can use Application load balancer or API Gateway
 
-### Step 1 — Summary of Step
+* Tha Lambda function must be registered in target group
 
-![Screenshot](https://via.placeholder.com/500x300)
+* ALB to Lambda: HTTP to JSON and Lambda to ALB Conversion: JSON to HTTP
 
-### Step 3 — Summary of Step
+* Try enabaling multi header values in target group
 
-![Screenshot](https://via.placeholder.com/500x300)
+If requests from a client or responses from a Lambda function contain headers with multiple values or contains the same header multiple times, or query parameters with multiple values for the same key, you can enable support for multi-value header syntax. After you enable multi-value headers, the headers and query parameters exchanged between the load balancer and the Lambda function use arrays instead of strings. If you do not enable multi-value header syntax and a header or query parameter has multiple values, the load balancer uses the last value that it receives.
 
-## ☁️ Cloud Outcome
+The following example request has two query parameters with the same key:
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+http://www.example.com?&myKey=val1&myKey=val2
 
-## Next Steps
+With the default format, the load balancer uses the last value sent by the client and sends you an event that includes query string parameters using queryStringParameters. For example:
 
-✍️ Describe what you think you think you want to do next.
+"queryStringParameters": { "myKey": "val2"},
+If you enable multi-value headers, the load balancer uses both key values sent by the client and sends you an event that includes query string parameters using multiValueQueryStringParameters. For example:
+
+"multiValueQueryStringParameters": { "myKey": ["val1", "val2"] }
+
+Refer following docs to learn more on Lambda with ALB and target group
+[https://docs.aws.amazon.com/lambda/latest/dg/services-alb.html]
+[https://docs.aws.amazon.com/elasticloadbalancing/latest/application/lambda-functions.html]
 
 ## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
 
 [link](link)
