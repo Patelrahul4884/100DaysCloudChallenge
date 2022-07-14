@@ -1,49 +1,40 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# New post title here
+# AWS Builders Online Series: Cloud security fundamentals
 
-## Introduction
+- Traditional on-premises security model
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+customers are responsible for end-to-end security in their on-premises data centers
 
-## Prerequisite
+Cloud security is a shared responsibility
+![image](https://user-images.githubusercontent.com/26384517/178904833-b89c0c21-15bf-4c5f-a365-2078d1b8b9ae.png)
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- AWS region design
 
-## Use Case
+AWS regions are comprised of multiple availability zones(AZs) for high availibility, high scalability and high fault tolerance. Applications and data are replicated in real time and consistent in the different AZs.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+* AWS Region: A region is a physical location in the world where we have multiple availibility zones.
 
-## Cloud Research
+* AWS Availibility Zone(AZ): AZ consist of one or more discrete data center, each with redundant power networking, and connectivity. housed in spereate facilities.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- Cloud-to-edge continuum
 
-## Try yourself
+- Data protection
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+- Identity & access management
 
-### Step 1 — Summary of Step
+- Incident detection and response
 
-![Screenshot](https://via.placeholder.com/500x300)
+## Key takeways
 
-### Step 1 — Summary of Step
+- Implement a strong indentity foundation
+- Enable tracebility
+- Apply security at all layers
+- Automate security best practices
+- Protect data in trasmit and at-rest
+- Keep people away from data
+- Prepare for security events
 
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
