@@ -35,9 +35,8 @@ AWS regions are comprised of multiple availability zones(AZs) for high availibil
 - Keep people away from data
 - Prepare for security events
 
+[Session Link](https://builders-apj.virtual.awsevents.com/media/Cloud%20security%20fundamentals%3A%20What%20every%20builder%20needs%20to%20know/1_enscy2lt/259846352)
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkedIn Post](https://www.linkedin.com/posts/rahul-patel-08805313a_github-patelrahul4884100dayscloudchallenge-activity-6953386628044247040-eyNe?utm_source=linkedin_share&utm_medium=member_desktop_web)
