@@ -1,49 +1,43 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# AWS Builders Online Series: Deploying your first web app in minutes
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+### The best ways to get started
 
-## Try yourself
+- Static websites and front end apps
+- Virtual private servers
+- Fully managed application and database servers
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+### Static websites and front end apps
 
-### Step 1 — Summary of Step
+AWS Amplify Console
+- Host your static websites and front end apps on aws in just a few clicks
+- AWS Amplify console is great for static content
+- It makes CI/CD easy
+- It gives you fast and easy hosting
 
-![Screenshot](https://via.placeholder.com/500x300)
+### Virtual private servers
 
-### Step 1 — Summary of Step
+Amazon Lightsail
+- The easiest way to get started on AWS at a low, predictable price
+- Cloud made easy
+- When to choose amazon Lightsail?
+1. small-cale, multi tier apps
+2. websites
+3. web apps
+4. Testing environments
+5. Line-of-business software
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 3 — Summary of Step
+### Managed application server
 
-![Screenshot](https://via.placeholder.com/500x300)
+AWS Elastic Beanstalk
+- Upload your code and let aws handle the deployment, load balancing, and sacaling.
+- Supports the most popular runtimes for web applications, as well as Docker images and also supports custom platform and custom images
 
-## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
 
