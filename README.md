@@ -32,7 +32,7 @@ Social Handle
 
 - [x] ☁️ 1 > [Add two number using Lambda AWS (Python)](Journey/001/Readme.md)
 - [x] ☁️ 2 > [Serverless API using Lambda and API Gateway](https://github.com/Patelrahul4884/100DaysCloudChallenge/tree/main/Journey/002)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
+- [x] ☁️ 3 > [Lambda and Application Load Balancer](https://github.com/Patelrahul4884/100DaysCloudChallenge/tree/main/Journey/003)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
